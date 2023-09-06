@@ -1,0 +1,33 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+    .video-title{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 18px;
+        width: 300px;
+        line-height: 24px;
+        margin-bottom: 20px ;
+    }
+
+.apple{
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+
+}
+
+.span-ex{
+    cursor: pointer;
+    
+}
+.spa    n-ex:hover{
+    text-decoration: underline;
+}
